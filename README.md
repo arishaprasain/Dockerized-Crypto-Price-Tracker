@@ -127,7 +127,4 @@ crypto-price-tracker/
 
 ---
 
-## 🔒 Security
-- Credentials stored in `.env` file (never committed to GitHub)
-- Airflow Connections used for database credentials in DAG code
-- Parameterized SQL queries to prevent SQL injection
+
